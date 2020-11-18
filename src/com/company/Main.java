@@ -8,7 +8,6 @@ class HelloWorld{
         System.out.println("Hello World!!");
 
         System.out.println("Hello");
-        int age=30;
         }
 
     }
