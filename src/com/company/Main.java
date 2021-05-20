@@ -9,7 +9,7 @@ class HelloWorld{
 
         System.out.println("Hello");
         String name = "Ivana";
-        System.out.println("kjhkjfdsh");
+        System.out.println("TEst");
         }
 
     }
