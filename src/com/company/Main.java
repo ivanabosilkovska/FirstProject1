@@ -12,6 +12,8 @@ class HelloWorld{
         System.out.println("TEst");
 
         System.out.println("new tests added");
+
+        System.out.println("another test added");
         }
 
     }
