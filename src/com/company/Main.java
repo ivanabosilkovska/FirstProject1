@@ -7,7 +7,7 @@ class HelloWorld{
     public static void main(String[] args) {
         System.out.println("Hello World!!");
 
-        System.out.println("Hello");
+        System.out.println("Hello Ivana");
         String name = "Ivana";
         System.out.println("TEst");
 
