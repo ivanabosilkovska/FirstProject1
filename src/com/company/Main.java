@@ -11,7 +11,7 @@ class HelloWorld{
         String name = "Ivana";
         System.out.println("TEst");
 
-        System.out.println("new tests added");
+        System.out.println("new tests added...");
 
         System.out.println("another test added");
         }
