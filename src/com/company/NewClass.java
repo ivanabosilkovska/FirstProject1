@@ -6,5 +6,7 @@ public class NewClass {
         System.out.println("Learning GIT..");
 
         int a = 0;
+
+        String name = "Ivana";
     }
 }
