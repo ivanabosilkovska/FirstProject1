@@ -7,6 +7,6 @@ public class NewClass {
 
         int a = 0;
 
-        String name = "Ivana";
+        String name = "Luka";
     }
 }
