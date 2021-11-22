@@ -5,7 +5,7 @@ public class NewTests {
     public NewTests() {
     }
 
-    private  int a = 10;
+    private  int a = 15;
 
     public int getA() {
         return a;
