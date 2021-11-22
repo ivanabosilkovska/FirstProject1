@@ -5,5 +5,7 @@ public class NewTestingClass {
         System.out.println("testing");
 
         System.out.println("GIT");
+
+        int a=5;
     }
 }
