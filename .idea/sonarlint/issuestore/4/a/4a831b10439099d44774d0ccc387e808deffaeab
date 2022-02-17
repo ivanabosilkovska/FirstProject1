@@ -1,2 +1,15 @@
 
-N	java:S106"9Replace this use of System.out or System.err by a logger.(»›Âï
+N	java:S106"9Replace this use of System.out or System.err by a logger.(»›Âï
+R
+java:S1191"5Use classes from the Java API instead of Sun classes.(ÓÒÒÃ8ğ‡åØİ.
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(§Ï¿Äùÿÿÿÿ8İååØİ.
+F
+java:S1481")Remove this unused "name" local variable.(—§¥ 8à„œÛİ.
+k
+java:S1128"NRemove this unused import 'com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput'.(ÓÒÒÃ8ğ‡åØİ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¹õŒ8®Û§ Ò/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ºƒ¼Èşÿÿÿÿ8®Û§ Ò/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Àî«Ş8®Û§ Ò/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(—‰ûÖıÿÿÿÿ8®Û§ Ò/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(œ¸ñ”ÿÿÿÿÿ8®Û§ Ò/
